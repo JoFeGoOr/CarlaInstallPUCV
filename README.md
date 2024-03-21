@@ -19,6 +19,3 @@ La guia a continuacion representa el trabajo realizado entre octubre-diciembre d
 * No se crea la carpeta "dist" ((carpeta-carla)\PythonAPI\carla\dist) (si eso pasa es necesario revisar la salida del comando "make PythonAPI", esto nos indicara cual puede ser el problema (puede variar de instalacion en instalacion))
   - Ejecutar "make clean" y luego eliminar la carpeta xerces-c-3.2.3-install y xerces-c-3.2.3-source de la carpeta "carla/Build" luego        ejecutar "make PythonAPI" 2 veces, sea una solucion.
   - En la carpeta "dist" existira un archivo .whl, ese archivo debe ser instalado manualmente para utilizar python junto con el carla,        abrir la capeta "dist" desde terminal y ejecutar pip install 'nombre-archivo-whl'.whl
-
-## Desarrollo de mapas y software.
-Para el desarrollo de mapas de sebe utilizar Blender con roundrunner
