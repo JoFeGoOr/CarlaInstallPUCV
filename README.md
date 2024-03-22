@@ -5,7 +5,7 @@ La guia a continuacion representa el trabajo realizado entre octubre-diciembre d
 
 ## Enlaces importantes
 * Video de instalacion del stack UnrealEngine(CarlaSim) + RoundRunner + Blender -> [link](https://www.youtube.com/watch?v=lLkFA0fPrgs)
-* Repositorio con material AudioVisual CarlaSim PUCV e instalacion -> [link](https://drive.google.com/drive/u/1/folders/1pgqZeGp7VuC2uT_PtHTpwoKisFoOACOo)
+* Repositorio con material AudioVisual CarlaSim PUCV e instalacion (se necesita permiso de acceso)-> [link](https://drive.google.com/drive/u/1/folders/1pgqZeGp7VuC2uT_PtHTpwoKisFoOACOo)
 * Documentacion Oficial CarlaSim -> [link](https://carla.readthedocs.io/en/latest/)
 
 ## Posibles Errores de instalacion
